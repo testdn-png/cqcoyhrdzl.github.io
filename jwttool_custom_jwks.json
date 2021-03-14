@@ -2,8 +2,7 @@
     "keys":[
         {
             "kty":"RSA",
-            "kid":"jwt_tool",
-            "use":"sig",
+            "kid":"NMR1MWbLLvuaPyUeJEsqcE1a9gj9p08zsClBhy7Q4Jc",
             "e":"AQAB",
             "n":"pGCpfniB8tCkoa-72Bl1lAv9kCja9frGAwFhGG7jO2mirBftRR4hqugeAt1bI49jKpHDfTOLL_0kGPyWAtEGQbTf1g9DyFYEfRvH9mbF37jg9C5eC7Zgz6qESDwN4p8o9jGPcFzJxPyKRmzPzc-kEUiT_AtMWOogiXX4mpHv0Z3BWtQan66EroilstFIUz-IShd-RMRA0GXl-X61nxkFsyWaUv-KLICxXzKI6aUzU2jhPEmp_f_E5b5SX70rcX9tH4OSdxyjvYBl34T4djtnWYgscEo2rv-il5KpmR8cKPMDJ-wzVab090yoYi7EFMUWAW10FhihhJzLjB9MvK1i9w"
         }
